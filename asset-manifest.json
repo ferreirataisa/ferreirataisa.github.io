@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ferreirataisa.github.io/static/css/main.86206661.css",
-    "main.js": "/ferreirataisa.github.io/static/js/main.2f36bc24.js",
-    "static/media/foto.jpg": "/ferreirataisa.github.io/static/media/foto.9f125ff12f1983ab5a14.jpg",
-    "index.html": "/ferreirataisa.github.io/index.html",
-    "main.86206661.css.map": "/ferreirataisa.github.io/static/css/main.86206661.css.map",
-    "main.2f36bc24.js.map": "/ferreirataisa.github.io/static/js/main.2f36bc24.js.map"
+    "main.css": "/static/css/main.86206661.css",
+    "main.js": "/static/js/main.3ee50a30.js",
+    "static/media/foto.jpg": "/static/media/foto.9f125ff12f1983ab5a14.jpg",
+    "index.html": "/index.html",
+    "main.86206661.css.map": "/static/css/main.86206661.css.map",
+    "main.3ee50a30.js.map": "/static/js/main.3ee50a30.js.map"
   },
   "entrypoints": [
     "static/css/main.86206661.css",
-    "static/js/main.2f36bc24.js"
+    "static/js/main.3ee50a30.js"
   ]
 }
